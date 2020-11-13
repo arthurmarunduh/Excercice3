@@ -1,0 +1,7 @@
+D:\mmi bootcamp\ExerciseWeek3\ExerciseWeek3\bin\Debug\ExerciseWeek3.exe.config
+D:\mmi bootcamp\ExerciseWeek3\ExerciseWeek3\bin\Debug\ExerciseWeek3.exe
+D:\mmi bootcamp\ExerciseWeek3\ExerciseWeek3\bin\Debug\ExerciseWeek3.pdb
+D:\mmi bootcamp\ExerciseWeek3\ExerciseWeek3\obj\Debug\ExerciseWeek3_Arthur.csprojAssemblyReference.cache
+D:\mmi bootcamp\ExerciseWeek3\ExerciseWeek3\obj\Debug\ExerciseWeek3_Arthur.csproj.CoreCompileInputs.cache
+D:\mmi bootcamp\ExerciseWeek3\ExerciseWeek3\obj\Debug\ExerciseWeek3.exe
+D:\mmi bootcamp\ExerciseWeek3\ExerciseWeek3\obj\Debug\ExerciseWeek3.pdb
